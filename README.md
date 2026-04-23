@@ -12,8 +12,8 @@
 ### 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/HMSSKHerath/javascript-logic-challenges.git
+cd javascript-logic-challenges
 ```
 
 ---
@@ -29,15 +29,12 @@ cd Day-01-FizzBuzz
 # Run JavaScript version
 node solution.js
 
-# Run TypeScript version (no compile needed)
-npx ts-node solution.ts
-
 # Run TypeScript version (Latest ESM compatible method)
 npx tsx solution.ts
 ```
 
 > 💡 Make sure you have Node.js installed.  
-> Install ts-node if needed: `npm install -g ts-node`
+> Note: We use tsx to run TypeScript directly as it supports modern ES Modules without extra configuration.
 
 ---
 
