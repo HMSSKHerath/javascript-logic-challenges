@@ -1,30 +1,20 @@
-# Day 01: FizzBuzz Challenge 🚀
+## 🎯 Day 01: FizzBuzz Logic Implementation
 
-## 📝 Problem Description
-Write a JavaScript program that iterates through numbers from **1 to 20** and prints specific strings based on divisibility rules.
+### **Problem Statement**
+Write a JavaScript/TypeScript program that iterates through numbers from **1 to 20** and logs specific strings based on divisibility rules. This challenge focuses on mastering control flow and condition priority.
 
-## 💡 Logic Conditions
-- Print `"Fizz"` if the number is divisible by **3**.
-- Print `"Buzz"` if the number is divisible by **5**.
-- Print `"FizzBuzz"` if the number is divisible by **both 3 and 5**.
-- Print the **number** itself if none of the above conditions are met.
+### **Tasks**
+- [ ] Create folder `Day-01-FizzBuzz`.
+- [ ] Implement logic in `solution.js`.
+- [ ] Implement logic in `solution.ts` (Typed version).
+- [ ] Document logic in folder-level `README.md`.
 
-## 🎯 Learning Goals
-* **Looping:** Master the `for` loop syntax.
-* **Conditionals:** Understand how `if`, `else if`, and `else` work together.
-* **Modulo Operator:** Use `%` to check for remainders.
-* **Logic Ordering:** Learn why checking for "both 3 and 5" must come first.
+### **Rules**
+- Divisible by **3** → `"Fizz"`
+- Divisible by **5** → `"Buzz"`
+- Divisible by **both 3 & 5** → `"FizzBuzz"`
+- Otherwise → **The Number**
 
-## 📂 Expected Output
-```text
-1
-2
-Fizz
-4
-Buzz
-Fizz
-...
-14
-FizzBuzz
-...
-20
+### **Definition of Done**
+- Code pushed to a feature branch.
+- PR created with a clear description and linked to this issue.
