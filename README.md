@@ -1,6 +1,6 @@
 # 🚀 JavaScript Logic Challenges
 
-<p align="center">
+<p>
   <b>Sharpening problem-solving skills one challenge at a time.</b><br/>
   <i>Daily coding practice using JavaScript & TypeScript</i>
 </p>
