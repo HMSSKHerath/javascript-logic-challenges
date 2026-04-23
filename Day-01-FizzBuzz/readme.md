@@ -29,3 +29,6 @@ During this challenge, I reinforced several core programming principles:
 * **Clean Output:** Prevents printing multiple results for a single number.
 * **Modulo Usage:** Efficiently checked divisibility using the `%` operator.
 * **Type Safety:** Used TypeScript to ensure the loop variable stays a `number`.
+
+---
+[⬅ Back to Main Progress Tracker](../README.md)
