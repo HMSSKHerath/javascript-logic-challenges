@@ -20,13 +20,12 @@ Write a JavaScript/TypeScript program that iterates through numbers from **1 to 
 - PR created with a clear description and linked to this issue.
 
 
-
 ## 🧠 Key Learnings & Logic Insights
 
 During this challenge, I reinforced several core programming principles:
 
-* **Most Specific Case First:** Always place the most restrictive condition at the top of an `if-else if` chain.
-    * *Example:* Checking for `(n % 3 === 0 && n % 5 === 0)` must happen before checking for `3` or `5` individually.
-* **Control Flow Priority:** Code executes from top to bottom. Once a condition is met (`true`), the remaining `else if` blocks are skipped.
-* **Avoiding Double Printing:** Using `if - else if` instead of multiple `if` statements ensures only one result is logged for each number.
-* **The Modulo Operator (%):** Used effectively to determine divisibility by checking for a zero remainder.
+* **Logic Priority:** Hardest condition (`3 & 5`) goes first to avoid wrong results.
+* **Smart Flow:** Using `else if` ensures the program stops after the first correct match.
+* **Clean Output:** Prevents printing multiple results for a single number.
+* **Modulo Usage:** Efficiently checked divisibility using the `%` operator.
+* **Type Safety:** Used TypeScript to ensure the loop variable stays a `number`.
