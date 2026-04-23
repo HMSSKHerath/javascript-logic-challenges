@@ -6,7 +6,7 @@ Write a JavaScript/TypeScript program that iterates through numbers from **1 to 
 ### **Tasks**
 - [X] Create folder `Day-01-FizzBuzz`.
 - [X] Implement logic in `solution.js`.
-- [ ] Implement logic in `solution.ts` (Typed version).
+- [X] Implement logic in `solution.ts` (Typed version).
 - [X] Document logic in folder-level `README.md`.
 
 ### **Rules**
