@@ -60,7 +60,8 @@ Solve one problem every day to improve:
 ## 📂 Project Structure
 
 ```text
-Repository-Root/
+
+javascript-logic-challenges/
  ├── README.md                # Main Project Documentation
  └── Day-XX-Challenge-Name/
       ├── solution.js         # JS Implementation
@@ -75,8 +76,8 @@ Repository-Root/
 | Day | Challenge | Link | Status |
 |-----|----------|------|--------|
 | 01  | FizzBuzz | [View](./Day-01-FizzBuzz) | ✅ Completed |
-| 02  | Coming Soon | - | ⏳ Pending |
-
+| 02  | Array Filtering and Mapping | [View](./Day-02-Array-Logic) | ✅ Completed |
+| 03  | Coming Soon | - | ⏳ Pending |
 ---
 
 ## 💡 What I Focus On
