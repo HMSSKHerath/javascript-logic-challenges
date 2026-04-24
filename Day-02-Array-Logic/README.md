@@ -5,9 +5,9 @@ Write a JavaScript/TypeScript program that takes an array of objects representin
 
 ### **Tasks**
 - [X] Create folder `Day-02-Array-Logic`.
-- [ ] Implement logic in `solution.js`.
-- [ ] Implement logic in `solution.ts` (Typed version).
-- [ ] Document logic in folder-level `README.md`.
+- [X] Implement logic in `solution.js`.
+- [X] Implement logic in `solution.ts` (Typed version).
+- [X] Document logic in folder-level `README.md`.
 
 ### **Rules**
 - Filter out users who are **under 18** years old.
