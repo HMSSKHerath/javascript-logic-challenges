@@ -5,7 +5,7 @@ Refactor a traditional loop-based filtering system into a modern, professional i
 
 ### **Tasks**
 - [X] Create folder `Day-03-Array-Methods`.
-- [] Implement logic in `solution.js`.
+- [X] Implement logic in `solution.js`.
 - [] Implement logic in `solution.ts` (Typed version).
 - [X] Document logic in folder-level `README.md`.
 
