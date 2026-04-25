@@ -11,7 +11,7 @@ const items: Item[] = [
     { name: "monitor", p: 200, brand: "dell" }
 ];
 
-const showDellItems = items
+const showDellItems: string[] = items
     .filter(item => item.brand === "dell")
     .map(({name,brand}) => (`Brand: ${brand} - Name: ${name}`));
 
