@@ -4,10 +4,10 @@
 Refactor a traditional loop-based filtering system into a modern, professional implementation. This challenge focuses on extracting specific brand data and formatting it into readable strings using ES6+ features.
 
 ### **Tasks**
-- [] Create folder `Day-03-Array-Methods`.
+- [X] Create folder `Day-03-Array-Methods`.
 - [] Implement logic in `solution.js`.
 - [] Implement logic in `solution.ts` (Typed version).
-- [] Document logic in folder-level `README.md`.
+- [X] Document logic in folder-level `README.md`.
 
 ### **Rules**
 - Filter products belonging only to the brand **"dell"**.
