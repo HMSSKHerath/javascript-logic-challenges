@@ -7,17 +7,8 @@ const users =
     { name: 'Eve', age: 30 }
 ]
 
-// Step 1: Filter out users who are 18 or older
-const adultUsers = users.filter(user => user.age >= 18);
-
-const adultNames = adultUsers.map(user => user.name.toUpperCase());
-
-console.log(adultNames);
-
-
-// Step 2: Combine filtering and mapping in one step
-const adultUsers2 = users
+const adultUserNames = users
     .filter(user => user.age >= 18)
-    .map(user => user.name.toUpperCase());
+    .map(({name}) => name.toUpperCase());
 
-console.log(adultUsers2);
+console.log(adultUserNames);

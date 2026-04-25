@@ -26,6 +26,7 @@ During this challenge, I reinforced several core programming principles:
 * **Chaining Logic:** Understanding the sequence—first we filter (remove unwanted data), then we map (modify the remaining data).
 * **Declarative Approach:** Using `.filter()` and `.map()` makes the code more readable compared to traditional loops.
 * **Type Safety:** Defined an `Interface` in TypeScript to ensure the User objects have the correct structure.
+* **TypeScript Scope Management:** Resolved the "Cannot redeclare block-scoped variable" error by using `export {}`. This treats the file as a module rather than a global script, preventing naming conflicts with the JavaScript version.
 
 ---
 [⬅ Back to Main Progress Tracker](../README.md)

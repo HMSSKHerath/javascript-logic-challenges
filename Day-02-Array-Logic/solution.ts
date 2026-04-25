@@ -4,7 +4,7 @@ interface User
     age: number;
 }
 
-const user: User[] =
+const users: User[] =
 [
     { name: 'Alice', age: 22 },
     { name: 'Bob', age: 15 },
@@ -13,8 +13,10 @@ const user: User[] =
     { name: 'Eve', age: 30 }
 ];
 
-const result: string[] = user
-    .filter(u => u.age >= 18)
-    .map(u => u.name.toUpperCase());
+const adultUserNames: string[] = users
+    .filter(user => user.age >= 18)
+    .map(({name}) => name.toUpperCase());
 
-console.log(result);
+console.log(adultUserNames);
+
+export {};
