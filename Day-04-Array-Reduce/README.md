@@ -4,10 +4,10 @@
 Implement a professional solution to calculate the total bill and total item quantity from a shopping cart using the `.reduce()` method. The goal is to master state accumulation and type safety in a single pass.
 
 ### **Tasks**
-- [x] Create folder `Day-04-Array-Reduce`.
-- [] Implement the logic in `solution.js`.
+- [X] Create folder `Day-04-Array-Reduce`.
+- [X] Implement the logic in `solution.js`.
 - [] Implement the typed version in `solution.ts`.
-- [] Document the logic and type definitions in a folder-level `README.md`.
+- [X] Document the logic and type definitions in a folder-level `README.md`.
 
 ### **Rules**
 - Use `.reduce()` to return a single object containing both total price and total quantity.
