@@ -78,7 +78,8 @@ javascript-logic-challenges/
 | 01  | FizzBuzz | [View](./Day-01-FizzBuzz) | ✅ Completed |
 | 02  | Array Filtering and Mapping | [View](./Day-02-Array-Logic) | ✅ Completed |
 | 03  | Array Methods & Destructuring | [View](./Day-03-Array-Methods) | ✅ Completed |
-| 04  | Coming Soon | - | ⏳ Pending |
+| 04  | Array Reduce & Objects | [View](./Day-04-Array-Reduce) | ✅ Completed |
+| 05  | Coming Soon | - | ⏳ Pending |
 ---
 
 ## 💡 What I Focus On
