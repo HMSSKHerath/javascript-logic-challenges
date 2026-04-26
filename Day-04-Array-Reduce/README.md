@@ -6,7 +6,7 @@ Implement a professional solution to calculate the total bill and total item qua
 ### **Tasks**
 - [X] Create folder `Day-04-Array-Reduce`.
 - [X] Implement the logic in `solution.js`.
-- [] Implement the typed version in `solution.ts`.
+- [X] Implement the typed version in `solution.ts`.
 - [X] Document the logic and type definitions in a folder-level `README.md`.
 
 ### **Rules**
