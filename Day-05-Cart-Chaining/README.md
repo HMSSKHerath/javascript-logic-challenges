@@ -4,7 +4,7 @@
 Implement a professional solution to filter active cart items and calculate the total bill using **Method Chaining** (`.filter()`, `.map()`, and `.reduce()`). The goal is to master functional programming by transforming raw data into a final result in a single, readable execution flow.
 
 ### **Tasks**
-- [] Create folder `Day-05-Cart-Chaining`.
+- [X] Create folder `Day-05-Cart-Chaining`.
 - [] Implement the logic in `solution.js`.
 - [] Use **Method Chaining** to process the input array in one continuous block.
 - [] Document the logic and transformation flow in a folder-level `README.md`.
