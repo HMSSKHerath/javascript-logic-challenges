@@ -1,4 +1,4 @@
-interface MyCart
+interface CartItem
 {
     id: number;
     name: string;
@@ -6,7 +6,7 @@ interface MyCart
     isAdded: boolean; 
 }
 
-const myCart: MyCart[] = [
+const myCart: CartItem[] = [
     { id: 1, name: 'Laptop', price: 1200, isAdded: true },
     { id: 2, name: 'Mouse', price: 25, isAdded: false },
     { id: 3, name: 'Keyboard', price: 50, isAdded: true },
