@@ -7,8 +7,8 @@ const myCart = [
 ];
 
 const totalBill = myCart
-    .filter(item => item.isAdded === true)
+    .filter(({isAdded}) => isAdded)
     .map(({price}) => price)
-    .reduce((totalAccumulator, price) => totalAccumulator + price , 0);
+    .reduce((total, price) => total + price , 0);
 
 console.log(totalBill);
