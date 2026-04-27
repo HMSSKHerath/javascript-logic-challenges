@@ -6,6 +6,7 @@ Implement a professional solution to filter active cart items and calculate the 
 ### **Tasks**
 - [X] Create folder `Day-05-Cart-Chaining`.
 - [X] Implement the logic in `solution.js`.
+- [] Implement the typed version in `solution.ts`.
 - [X] Use **Method Chaining** to process the input array in one continuous block.
 - [] Document the logic and transformation flow in a folder-level `README.md`.
 
