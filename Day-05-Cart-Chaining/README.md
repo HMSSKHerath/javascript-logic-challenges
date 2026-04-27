@@ -17,7 +17,7 @@ Implement a professional solution to filter active cart items and calculate the 
 - Output should be a single numerical value representing the total price.
 
 ### **Definition of Done**
-- Code pushed to a feature branch `feat/day-05-cart-chaining`.
+- Code pushed to a feature branch `feature/day-05-cart-chaining`.
 - Logic implemented using a single chained statement.
 - Final total bill correctly calculated and logged.
 
