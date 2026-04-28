@@ -80,7 +80,8 @@ javascript-logic-challenges/
 | 03  | Array Methods & Destructuring | [View](./Day-03-Array-Methods) | ✅ Completed |
 | 04  | Array Reduce & Objects | [View](./Day-04-Array-Reduce) | ✅ Completed |
 | 05  | Array Method Chaining | [View](./Day-05-Cart-Chaining) | ✅ Completed |
-| 06  | Coming Soon | - | ⏳ Pending |
+| 06  | Asynchronous API Fetching | [View](./Day-06-API-Fetching) | ✅ Completed |
+| 07  | Coming Soon | - | ⏳ Pending |
 ---
 
 ## 💡 What I Focus On
