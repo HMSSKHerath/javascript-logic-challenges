@@ -6,9 +6,9 @@ Implement a professional solution to fetch user data from an external API and pr
 ### **Tasks**
 - [X] Create folder `Day-06-API-Fetching`.
 - [X] Implement the logic in `solution.js`.
-- [ ] Implement the typed version in `solution.ts`.
+- [X] Implement the typed version in `solution.ts`.
 - [X] Use the **Fetch API** to retrieve data from JSONPlaceholder.
-- [ ] Document the asynchronous flow and error handling in a folder-level `README.md`.
+- [X] Document the asynchronous flow and error handling in a folder-level `README.md`.
 
 ### **Rules**
 - Use the **Fetch API** with `async/await` for asynchronous operations.
