@@ -4,11 +4,13 @@
 Implement a professional solution to fetch user data from an external API and process it using asynchronous JavaScript. The goal is to master **Promises**, **Async/Await**, and data filtering/mapping to transform raw API responses into a refined dataset.
 
 ### **Tasks**
-- [X] Create folder `Day-06-API-Fetching`.
-- [X] Implement the logic in `solution.js`.
-- [X] Implement the typed version in `solution.ts`.
-- [X] Use the **Fetch API** to retrieve data from JSONPlaceholder.
-- [X] Document the asynchronous flow and error handling in a folder-level `README.md`.
+- [x] Create folder `Day-06-API-Fetching`.
+- [x] Implement the logic in `solution.js` using `async/await`.
+- [x] Use the **Fetch API** to retrieve data from `https://jsonplaceholder.typicode.com/users`.
+- [x] Implement logic to filter users whose `username` length is greater than 6.
+- [x] Use `.map()` to return an array of objects containing only `name` and `email`.
+- [x] Implement `try...catch` blocks for professional error handling.
+- [x] Document the asynchronous flow and API handling in a folder-level `README.md`.
 
 ### **Rules**
 - Use the **Fetch API** with `async/await` for asynchronous operations.
