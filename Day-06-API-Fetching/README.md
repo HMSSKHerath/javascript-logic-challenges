@@ -4,7 +4,7 @@
 Implement a professional solution to fetch user data from an external API and process it using asynchronous JavaScript. The goal is to master **Promises**, **Async/Await**, and data filtering/mapping to transform raw API responses into a refined dataset.
 
 ### **Tasks**
-- [ ] Create folder `Day-06-API-Fetching`.
+- [X] Create folder `Day-06-API-Fetching`.
 - [ ] Implement the logic in `solution.js`.
 - [ ] Implement the typed version in `solution.ts`.
 - [ ] Use the **Fetch API** to retrieve data from JSONPlaceholder.
