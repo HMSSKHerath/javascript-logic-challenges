@@ -4,7 +4,7 @@
 Implement a professional solution to fetch post data from an external API and perform complex sorting and filtering. The goal is to master **Asynchronous Data Handling**, **Array Sorting Algorithms** (`.sort()`), and multi-level data transformation to present information in a structured order.
 
 ### **Tasks**
-- [] Create folder `Day-07-API-Sorting`.
+- [X] Create folder `Day-07-API-Sorting`.
 - [] Implement the logic in `solution.js` using `async/await`.
 - [] Implement the typed version in `solution.ts`.
 - [] Use the **Fetch API** to retrieve data from `https://jsonplaceholder.typicode.com/posts`.
