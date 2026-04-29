@@ -5,12 +5,12 @@ Implement a professional solution to fetch post data from an external API and pe
 
 ### **Tasks**
 - [X] Create folder `Day-07-API-Sorting`.
-- [] Implement the logic in `solution.js` using `async/await`.
-- [] Implement the typed version in `solution.ts`.
-- [] Use the **Fetch API** to retrieve data from `https://jsonplaceholder.typicode.com/posts`.
-- [] Implement logic to filter posts where `userId` is 1.
-- [] Sort the filtered posts by the **length of their title** in descending order (longest first).
-- [] Document the sorting logic and performance considerations in a folder-level `README.md`.
+- [X] Implement the logic in `solution.js` using `async/await`.
+- [X] Implement the typed version in `solution.ts`.
+- [X] Use the **Fetch API** to retrieve data from `https://jsonplaceholder.typicode.com/posts`.
+- [X] Implement logic to filter posts where `userId` is 1.
+- [X] Sort the filtered posts by the **length of their title** in descending order (longest first).
+- [X] Document the sorting logic and performance considerations in a folder-level `README.md`.
 
 ### **Rules**
 - Use the **Fetch API** with `async/await` for asynchronous operations.
