@@ -81,7 +81,8 @@ javascript-logic-challenges/
 | 04  | Array Reduce & Objects | [View](./Day-04-Array-Reduce) | ✅ Completed |
 | 05  | Array Method Chaining | [View](./Day-05-Cart-Chaining) | ✅ Completed |
 | 06  | Asynchronous API Fetching | [View](./Day-06-API-Fetching) | ✅ Completed |
-| 07  | Coming Soon | - | ⏳ Pending |
+| 07  | API Data Sorting & Filtering | [View](./Day-07-API-Sorting) | ✅ Completed |
+| 08  | Coming Soon | - | ⏳ Pending |
 ---
 
 ## 💡 What I Focus On
